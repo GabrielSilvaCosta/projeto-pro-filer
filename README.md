@@ -1,10 +1,11 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Projeto- Pro-filer  
+
+Durante o projeto Pro-Filer, foram aplicadas diversas ferramentas e técnicas para aprimorar a qualidade e eficiência do código. Destacam-se:
+
+Identificação e Correção de Bugs: O foco principal foi encontrar e corrigir bugs no código Python.
+
+Testes Unitários com unittest: Foram desenvolvidos testes unitários utilizando a biblioteca unittest para garantir a funcionalidade correta das diferentes partes do código.
+
+Libraries pytest, fixtures, capsys, tmp_path e monkeypatch: Utilizamos o pytest para criar testes automatizados mais eficientes, e exploramos funcionalidades como fixtures, capsys, tmp_path e monkeypatch para criar testes mais abrangentes.
+
+Otimização de Desempenho: Buscamos tornar o código mais eficiente, simplificando funções e reorganizando blocos de código.
